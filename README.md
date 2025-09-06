@@ -4,7 +4,7 @@
 
 
 <p>🎓 Computer Science student at the University of Fortaleza <a href="https://unifor.brhttpsgclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">UNIFOR</a></p>
-<p>💻 Currently learning React Native and Flask </a></p>
+<p>💻 Currently learning ReactJS and Science Data with Python </a></p>
 <p>🧑‍💻 Interested in becoming a Software Engineer </p>
 <p>🔠 Advanced English</p>
 <p></p>
